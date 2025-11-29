@@ -104,5 +104,7 @@ Integration with smart refrigerators
 
 ## Articles published / References
 [1] Q. M. Clark et al., "Exploring the potential of AI-driven food waste management strategies for household adaptation," Frontiers in Artificial Intelligence, vol. 7, 2025.
+
 [2]  L. Reardon, "Chefs' Perceptions of Zero Waste Cooking with AI Assistance in Smart Kitchens," Journal of Culinary Science & Technology, vol. 22, no. 4, pp. 389–405, 2025.
+
 [3] P. Das, A. Singh, and K. Roy, “Climate-Aware Food Recommendation System for Personalized Nutrition,” Journal of Sustainable Computing: Informatics and Systems, vol. 35, pp. 210–225, 2023.
