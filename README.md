@@ -79,7 +79,9 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 <img width="1111" height="809" alt="ui-community recipe" src="https://github.com/user-attachments/assets/19178c1e-e4a0-4e2b-b8dc-7ef36ee30056" />
 
+
 Detection Accuracy: 96.7%
+
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
