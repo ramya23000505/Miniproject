@@ -103,7 +103,6 @@ Integration with smart refrigerators
 
 
 ## Articles published / References
-1. Juan C. S. Herrera, “Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles,” arXiv preprint, 2020.
-2. Srilekha Mamidala, “The SLED (Shelf Life Expiration Date) Tracking System: Using Machine Learning Algorithms to Combat Food Waste and Food Borne Illnesses,” arXiv preprint, 2023.
-3. K. J. P. Ortiz, P. N. P. Bautista, M. V. D. Dimailig, A. C. D. Llamzon, “Recipe Recommendation System Using IoT‑Based Food Inventory Management of Perishables for Household Food Waste Reduction,” Chemical Engineering Transactions, vol. 106, 2023, pp. 361–366.
-
+[1] Q. M. Clark et al., "Exploring the potential of AI-driven food waste management strategies for household adaptation," Frontiers in Artificial Intelligence, vol. 7, 2025.
+[2]  L. Reardon, "Chefs' Perceptions of Zero Waste Cooking with AI Assistance in Smart Kitchens," Journal of Culinary Science & Technology, vol. 22, no. 4, pp. 389–405, 2025.
+[3] P. Das, A. Singh, and K. Roy, “Climate-Aware Food Recommendation System for Personalized Nutrition,” Journal of Sustainable Computing: Informatics and Systems, vol. 35, pp. 210–225, 2023.
