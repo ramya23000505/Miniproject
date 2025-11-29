@@ -66,10 +66,18 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 <img width="1029" height="455" alt="ui-recipe instructions" src="https://github.com/user-attachments/assets/b119e3dd-28de-4003-b0ee-0f3a2e72c8b0" />
 
-### Output6 - Reward Points Earned
+### Output7 - Recipe FeedBack Section
+
+<img width="1084" height="767" alt="ui-gamificatio feedback" src="https://github.com/user-attachments/assets/5d8acb3c-0261-4016-b022-254fd96a56b3" />
+
+
+### Output8 - Reward Points Earned
 
 <img width="507" height="579" alt="ui-points earned" src="https://github.com/user-attachments/assets/4fb49a8f-38e3-4604-bfbd-d9baf89d0c6a" />
 
+### Output9 - Community Recipe
+
+<img width="1111" height="809" alt="ui-community recipe" src="https://github.com/user-attachments/assets/19178c1e-e4a0-4e2b-b8dc-7ef36ee30056" />
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
